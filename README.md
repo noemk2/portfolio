@@ -1,3 +1,7 @@
+# Fork by [tsurupin/portfolio](https://github.com/tsurupin/portfolio)
+
+more info go to https://github.com/tsurupin/portfolio
+
 ### Setup
 1. Get the code.
 
